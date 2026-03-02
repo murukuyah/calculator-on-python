@@ -14,12 +14,14 @@ elif v == 3:
         o = 'Division'
     else:
         print('Division durch 0 geht nicht!')
+        input("\nDrücke Enter, um das Programm zu beenden")
         exit()
 elif v == 4:
     r = n1 * n2
     o = 'Multiplikation'
 else:
     print('Falsche Operation!')
+    input("\nDrücke Enter, um das Programm zu beenden")
     exit()
 
 print('Ergebnis', o, '=', r)
