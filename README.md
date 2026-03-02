@@ -1,2 +1,7 @@
 # calculator-on-python
-Ein einfacher Taschenrechner in Python für Addition, Subtraktion, Multiplikation und Division.
+Ein einfacher Taschenrechner in Python.
+Er kann:
+- Addition
+- Subtraktion
+- Multiplikation
+- Division 
