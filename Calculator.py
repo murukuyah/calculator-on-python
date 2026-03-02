@@ -23,3 +23,4 @@ else:
     exit()
 
 print('Ergebnis', o, '=', r)
+input("\nDrücke Enter, um das Programm zu beenden")
